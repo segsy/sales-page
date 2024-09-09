@@ -1,0 +1,49 @@
+version: "3.9"
+services:
+    wordpress:
+        container_name: wordpress
+        image: wordpress:php8.1-apache
+        restart: always
+        stdin_open: true
+        tty: true
+        environment:
+            WORDPRESS_DB_HOST: mariadb
+            WORDPRESS_DB_USER: forexyom_wp959
+            WORDPRESS_DB_PASSWORD: aS@O30pp@D@H7(z@
+            WORDPRESS_DB_NAME: forexyom_wp959
+        volumes:
+            - wordpress_data:/var/www/html
+            - ./wordpress:/var/www/html
+    mariadb:
+        container_name: mariadb
+        image: mariadb
+        restart: always
+        environment:
+            MYSQL_DATABASE: forexyom_wp959
+            MYSQL_USER: forexyom_wp959
+            MYSQL_PASSWORD: aS@O30pp@D@H7(z@
+            MYSQL_RANDOM_ROOT_PASSWORD: Webconsultant2020#
+        volumes:
+            - db_data:/var/lib/mysql
+    nginx:
+        container_name: nginx
+        image: nginx:latest
+        restart: unless-stopped
+        ports:
+            - 80:80
+            - 443:443
+        volumes:
+            - ./nginx/conf:/etc/nginx/conf.d
+            - ./certbot/conf:/etc/nginx/ssl
+            - ./certbot/data:/var/www/html
+    certbot:
+        container_name: certbot
+        image: certbot/certbot:latest
+        command: certonly --webroot --webroot-path=/var/www/html --email youremail@domain.com --agree-tos --no-eff-email -d domain.com -d www.domain.com
+        volumes:
+            - ./certbot/conf:/etc/letsencrypt
+            - ./certbot/logs:/var/log/letsencrypt
+            - ./certbot/data:/var/www/html
+volumes:
+    db_data:
+    wordpress_data:

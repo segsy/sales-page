@@ -1,0 +1,1209 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Tradex \u2013 Stock Advisor & Investment Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Advisor",
+            "screenshot": "screenshots\/advisor.jpg",
+            "source": "templates\/advisor.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/advisor\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/tradex\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "abstract-grey-or-gray-background-texture-surface-1-e1660054993108.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/abstract-grey-or-gray-background-texture-surface-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 275940,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WWYG7TC"
+        },
+        {
+            "filename": "card1-ADFYXN3.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/card1-ADFYXN3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 112116,
+            "dimensions": [
+                840,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADFYXN3"
+        },
+        {
+            "filename": "infos-TYRVEWF.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/infos-TYRVEWF.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85645,
+            "dimensions": [
+                720,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYRVEWF"
+        },
+        {
+            "filename": "card2-ADFYXN3.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/card2-ADFYXN3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 112697,
+            "dimensions": [
+                840,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADFYXN3"
+        },
+        {
+            "filename": "abstract-colorful-paper-background-e1660054814753.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/abstract-colorful-paper-background-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 112860,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJXF2ZW"
+        },
+        {
+            "filename": "young-businessman-use-of-the-tablet-pc-RFF7NF5-e1660054858998.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/young-businessman-use-of-the-tablet-pc-RFF7NF5-e1660054858998-800x1251.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 728134,
+            "dimensions": [
+                900,
+                1407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RFF7NF5"
+        },
+        {
+            "filename": "logo-partner-1-e1660054720802.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo-partner-1-800x198.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 53758,
+            "dimensions": [
+                800,
+                198
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-partner-2-e1660054730871.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo-partner-2-800x175.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44647,
+            "dimensions": [
+                800,
+                175
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-partner-3-e1660054737502.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo-partner-3-800x203.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 72301,
+            "dimensions": [
+                800,
+                203
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-partner-4-e1660054745693.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo-partner-4-800x226.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 35542,
+            "dimensions": [
+                800,
+                226
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "businessman-e1659851295513.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/businessman-e1659851295513-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 113541,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSHKQMR"
+        },
+        {
+            "filename": "desktop2-TYRVEWF-e1660055013875.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/desktop2-TYRVEWF-800x572.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 238333,
+            "dimensions": [
+                850,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYRVEWF"
+        },
+        {
+            "filename": "stock-market-or-forex-trading-graph-and-chart-for-financial-investment-on-monitor-screen-economy-e1660055062838.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/stock-market-or-forex-trading-graph-and-chart-for-financial-investment-on-monitor-screen-economy-800x441.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 144921,
+            "dimensions": [
+                1920,
+                1058
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GH5CZAV"
+        },
+        {
+            "filename": "crypto-traders-brokers-stock-exchange-investors-analyzing-trading-charts--e1660055094534.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/crypto-traders-brokers-stock-exchange-investors-analyzing-trading-charts--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 232413,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4H8SQFT"
+        },
+        {
+            "filename": "two-traders-brokers-stock-exchange-market-investors-discussing-crypto-trading--e1660055106411.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/two-traders-brokers-stock-exchange-market-investors-discussing-crypto-trading--800x1276.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 179750,
+            "dimensions": [
+                1000,
+                1595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CNVR8RB"
+        },
+        {
+            "filename": "abstract-background-texture-surface-e1660054969258.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/abstract-background-texture-surface-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 244953,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7ZZWUBC"
+        },
+        {
+            "filename": "card-TYRVEWF.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/card-TYRVEWF-800x475.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 113797,
+            "dimensions": [
+                828,
+                492
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYRVEWF"
+        },
+        {
+            "filename": "weeklySummary-TYRVEWF-e1660055292469.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/weeklySummary-TYRVEWF-800x270.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 143519,
+            "dimensions": [
+                800,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYRVEWF"
+        },
+        {
+            "filename": "young-businessman-use-of-the-mobile-phone-EKMKTBX.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/young-businessman-use-of-the-mobile-phone-EKMKTBX-800x1274.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 281492,
+            "dimensions": [
+                850,
+                1354
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EKMKTBX"
+        },
+        {
+            "filename": "stockbroker-profit-analysis-on-trade-graph-with-candlesticks-e1660055125523.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/stockbroker-profit-analysis-on-trade-graph-with-candlesticks-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 148747,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SUUHWNS"
+        },
+        {
+            "filename": "man-cryptocurrency-trader-holding-mobile-phone-in-hand-looking-at-multiple-screens-monitoring-stock-e1660055143386.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/man-cryptocurrency-trader-holding-mobile-phone-in-hand-looking-at-multiple-screens-monitoring-stock-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 133730,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3HLRFR"
+        },
+        {
+            "filename": "stocks-revenue-money-investing-and-trading-crypto-e1660055152126.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/stocks-revenue-money-investing-and-trading-crypto-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 113533,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D8LE53U"
+        },
+        {
+            "filename": "office-workplace-table-e1660055161159.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/office-workplace-table-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 266524,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SE95J3F"
+        },
+        {
+            "filename": "indian-operator-assistant-using-a-microphone-headset-while-conversing-with-a-customer-e1660055301354.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/indian-operator-assistant-using-a-microphone-headset-while-conversing-with-a-customer-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 102928,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DCVVEX4"
+        },
+        {
+            "filename": "man-with-tablet-in-his-hands-feeling-good-M5SC4SH.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/man-with-tablet-in-his-hands-feeling-good-M5SC4SH-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 187016,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M5SC4SH"
+        },
+        {
+            "filename": "young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/young-woman-holding-digital-tablet-in-modern-offic-MDR8BDP-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 116517,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MDR8BDP"
+        },
+        {
+            "filename": "young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/young-woman-working-with-digital-tablet-in-the-off-7FHM3FZ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 105272,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7FHM3FZ"
+        },
+        {
+            "filename": "close-up-led-charts-and-summary-info-for-making-stock-trading-graph-1-e1660055177109.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/close-up-led-charts-and-summary-info-for-making-stock-trading-graph-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 115778,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H6ZFE7G"
+        },
+        {
+            "filename": "investment-stockbroker-stock-trading-e1660055360777.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/investment-stockbroker-stock-trading-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 123954,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TR5GP7U"
+        },
+        {
+            "filename": "confident-businessman-using-laptop-e1660055352319.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/confident-businessman-using-laptop-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 135911,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y7TYABE"
+        },
+        {
+            "filename": "phone-9YTWFNG.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/phone-9YTWFNG.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 218090,
+            "dimensions": [
+                1549,
+                1727
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YTWFNG"
+        },
+        {
+            "filename": "google-play-badge-e1630982322931-1.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/google-play-badge-e1630982322931-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15158,
+            "dimensions": [
+                584,
+                179
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/play.google.com\/intl\/en_us\/badges\/"
+        },
+        {
+            "filename": "app-store1-1.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/app-store1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 9449,
+            "dimensions": [
+                501,
+                168
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        },
+        {
+            "filename": "businessman-XSHKQMR.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/businessman-XSHKQMR-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 188336,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSHKQMR"
+        },
+        {
+            "filename": "senior-businessman-visiting-his-office-after-weeke-8GKLZLS.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/senior-businessman-visiting-his-office-after-weeke-8GKLZLS-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 255929,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8GKLZLS"
+        },
+        {
+            "filename": "business-woman-MCSQA8D.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/business-woman-MCSQA8D-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 188749,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MCSQA8D"
+        },
+        {
+            "filename": "portrait-of-female-higher-education-student-in-mac-Q6MCRLB.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/portrait-of-female-higher-education-student-in-mac-Q6MCRLB-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 176207,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q6MCRLB"
+        },
+        {
+            "filename": "young-businesswoman-in-office-room-portrait-shot-NZ4P96B.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/young-businesswoman-in-office-room-portrait-shot-NZ4P96B-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 110623,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NZ4P96B"
+        },
+        {
+            "filename": "businessman-2LDTVRC.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/businessman-2LDTVRC-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 141520,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2LDTVRC"
+        },
+        {
+            "filename": "asian-businesswoman-portrait-68FTB45.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/asian-businesswoman-portrait-68FTB45-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 117946,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-68FTB45"
+        },
+        {
+            "filename": "cheerful-businessman-GM4STHG.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/cheerful-businessman-GM4STHG-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/advisor.json",
+                    "name": "Advisor"
+                }
+            ],
+            "filesize": 140258,
+            "dimensions": [
+                1000,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GM4STHG"
+        },
+        {
+            "filename": "trading-using-technology-e1660055368208.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/trading-using-technology-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 119966,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2GJTK8G"
+        },
+        {
+            "filename": "logo2-tradex-e1660054760664.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo2-tradex-800x250.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 79674,
+            "dimensions": [
+                800,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-company-logo-design-ideas_3462566.htm"
+        },
+        {
+            "filename": "logo1-tradex-e1660054753222.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/logo1-tradex-800x250.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 68326,
+            "dimensions": [
+                800,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-company-logo-design-ideas_3462566.htm"
+        },
+        {
+            "filename": "close-up-led-charts-and-summary-info-for-making-stock-trading-graph-2-e1660055282479.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/tradex\/wp-content\/uploads\/sites\/33\/2022\/08\/close-up-led-charts-and-summary-info-for-making-stock-trading-graph-2-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 77728,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LPPAUWP"
+        }
+    ]
+}

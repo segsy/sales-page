@@ -1,0 +1,1163 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Parax",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.jpg",
+            "source": "templates\/project-details.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/project-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faqs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Form",
+            "screenshot": "screenshots\/newsletter-form.jpg",
+            "source": "templates\/newsletter-form.json",
+            "preview_url": "https:\/\/kitpro.site\/parax\/template-kit\/newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "The Plus Addons for Elementor",
+            "version": "5.0.2",
+            "file": "the-plus-addons-for-elementor-page-builder\/theplus_elementor_addon.php",
+            "author": "POSIMYTH"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.5",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "sky.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/sky-800x447.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 170945,
+            "dimensions": [
+                1920,
+                1073
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revmoons.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revmoons-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 153887,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revcloud.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revcloud-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 37290,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revforest3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforest3-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 231034,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revcastle.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revcastle-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 27535,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revforest1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforest1-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 157884,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revtrain.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revtrain-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 28785,
+            "dimensions": [
+                2500,
+                1397
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "Flat-color-Modern-Isometric-Illustration-design-Social-Network2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/Flat-color-Modern-Isometric-Illustration-design-Social-Network2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                }
+            ],
+            "filesize": 57813,
+            "dimensions": [
+                395,
+                347
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "graphic-design-udh-ku-edit.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/graphic-design-udh-ku-edit-800x522.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 221763,
+            "dimensions": [
+                1585,
+                1035
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/creative-workspace-isometric-illustration-g1-32VUHY"
+        },
+        {
+            "filename": "logoipsum-logo-8-1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/logoipsum-logo-8-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2537,
+            "dimensions": [
+                136,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-7-1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/logoipsum-logo-7-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2515,
+            "dimensions": [
+                120,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-6-1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/logoipsum-logo-6-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2341,
+            "dimensions": [
+                130,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/logoipsum-logo-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2455,
+            "dimensions": [
+                128,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Teamwork2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/Teamwork2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                }
+            ],
+            "filesize": 61360,
+            "dimensions": [
+                420,
+                342
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "iso2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/iso2-800x903.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 121358,
+            "dimensions": [
+                861,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/creative-workspace-isometric-illustration-g1-32VUHY"
+        },
+        {
+            "filename": "World-map-02.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/World-map-02-800x472.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 174091,
+            "dimensions": [
+                1200,
+                708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-dotted-world-map-C3EU3G7"
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 20512,
+            "dimensions": [
+                246,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diversity-avatar-illustrations-pack-M26MJ25"
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 13278,
+            "dimensions": [
+                246,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diversity-avatar-illustrations-pack-M26MJ25"
+        },
+        {
+            "filename": "client5.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/client5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 19637,
+            "dimensions": [
+                246,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diversity-avatar-illustrations-pack-M26MJ25"
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 15601,
+            "dimensions": [
+                246,
+                245
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diversity-avatar-illustrations-pack-M26MJ25"
+        },
+        {
+            "filename": "clint4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/clint4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 16967,
+            "dimensions": [
+                246,
+                245
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diversity-avatar-illustrations-pack-M26MJ25"
+        },
+        {
+            "filename": "revforestheader.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforestheader-800x173.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 151520,
+            "dimensions": [
+                2500,
+                542
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "Flat-color-Modern-Isometric-Illustration-design-EDIT-Design-Studio.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/Flat-color-Modern-Isometric-Illustration-design-EDIT-Design-Studio.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "Faqs"
+                }
+            ],
+            "filesize": 80173,
+            "dimensions": [
+                452,
+                391
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "forestheader.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/forestheader-800x173.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 230925,
+            "dimensions": [
+                1920,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "ava1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/ava1.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 17866,
+            "dimensions": [
+                246,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "ava3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/ava3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15140,
+            "dimensions": [
+                246,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "ava2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/ava2.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14450,
+            "dimensions": [
+                246,
+                245
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "ava4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/ava4.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15353,
+            "dimensions": [
+                245,
+                246
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-flat-design-isometric-illustrations-KGATXG"
+        },
+        {
+            "filename": "Creative-Studio-Isometric-edit.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/Creative-Studio-Isometric-edit-800x544.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 138156,
+            "dimensions": [
+                1920,
+                1305
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/creative-studio-concept-isometric-illustration-RG4DUN"
+        },
+        {
+            "filename": "robot-artist-wooden-easel-and-the-handwritten-pict-Q7SERMB.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/robot-artist-wooden-easel-and-the-handwritten-pict-Q7SERMB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 201537,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q7SERMB"
+        },
+        {
+            "filename": "school-supplies-at-abstract-colorful-background-te-WFMUVWL.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/school-supplies-at-abstract-colorful-background-te-WFMUVWL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 197320,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WFMUVWL"
+        },
+        {
+            "filename": "yellow-school-supplies-over-the-green-board-educat-CK38PT3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/yellow-school-supplies-over-the-green-board-educat-CK38PT3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 146835,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CK38PT3"
+        },
+        {
+            "filename": "presents-and-smartphone-mock-up-8HN7PAQ.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/presents-and-smartphone-mock-up-8HN7PAQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 170209,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8HN7PAQ"
+        },
+        {
+            "filename": "robot-artist-wooden-easel-and-the-handwritten-pict-Q7SERMBx.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/robot-artist-wooden-easel-and-the-handwritten-pict-Q7SERMBx-800x395.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 170816,
+            "dimensions": [
+                1200,
+                593
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q7SERMB"
+        },
+        {
+            "filename": "15-September-outlineku-edit-07.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/15-September-outlineku-edit-07-800x591.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 254195,
+            "dimensions": [
+                1521,
+                1124
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/web-development-concept-illustration-V74CGF9"
+        },
+        {
+            "filename": "moon4042.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/10\/moon4042-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 220689,
+            "dimensions": [
+                1920,
+                1073
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "cloud.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/cloud-800x447.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 88260,
+            "dimensions": [
+                1920,
+                1073
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "Logo-Parax.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/Logo-Parax-800x180.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3573,
+            "dimensions": [
+                1000,
+                225
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "revforestfooter2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforestfooter2-800x166.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 236199,
+            "dimensions": [
+                2500,
+                518
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revforestfooter3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforestfooter3-800x182.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 241086,
+            "dimensions": [
+                2500,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        },
+        {
+            "filename": "revforestfooter1big.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/parax\/wp-content\/uploads\/sites\/42\/2021\/09\/revforestfooter1big-800x335.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 147131,
+            "dimensions": [
+                2500,
+                1048
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/game-background-train-P5DJHDL"
+        }
+    ]
+}
